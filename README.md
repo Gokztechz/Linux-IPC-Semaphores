@@ -1,6 +1,7 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-
+# NAME: GOKUL SHARAN R
+# REG NO: 212223040052
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
